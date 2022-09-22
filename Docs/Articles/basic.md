@@ -1,5 +1,5 @@
 <!-- LOGO DIREITO -->
-<a href="#"><img width="200px" src="https://img.freepik.com/fotos-gratis/bandeira-do-brasil-fundo_135932-1335.jpg" align="right" /></a>
+<a href="#"><img width="300px" src="https://miro.medium.com/max/1400/1*Dd0-ftvJxAcSdSZHgNrz0w.png" align="right" /></a>
 
 # Noções Básicas de Python
 
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-🔧 Um overview das noções básicas de Python.
+🔋 Um overview das noções básicas de Python.
 
 <!-- SUMÁRIO -->
 - [Noções Básicas de Python](#noções-básicas-de-python)
