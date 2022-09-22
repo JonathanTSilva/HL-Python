@@ -54,6 +54,10 @@
   </tr>
 </table>
 
+## 🛣️ Roadmap
+
+![python_roadmap][A]
+
 ## 🔎 Índice
 
 - [ex1](https://github.com/JonathanTSilva)
@@ -61,26 +65,27 @@
 
 ## 🤝 Contribuindo
 
-Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][A] para contribuir corretamente. :tada:
+Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][1] para contribuir corretamente. :tada:
 
 <!-- LICENÇA -->
 <a href="https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
 ## 📝 Licença
 
-Distribuída por **MIT License**. Veja [LICENSE][B] para mais informações.
+Distribuída por **MIT License**. Veja [LICENSE][2] para mais informações.
 
 ## 📧 Contato
 
-:globe_with_meridians: [Jonathan T. da Silva][C] <br>
+:globe_with_meridians: [Jonathan T. da Silva][3] <br>
 :email: jonathantobias2009@hotmail.com <br>
-:package: [JonathanTSilva/HL-Python][D]
+:package: [JonathanTSilva/HL-Python][4]
 
 <!-- MARKDOWN LINKS>
 <!-- SITES -->
-[A]: https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/CONTRIBUTING.md
-[B]: https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE
-[C]: https://www.linkedin.com/in/JonathanTSilva/
-[D]: https://github.com/JonathanTSilva/HL-Python
+[1]: https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/CONTRIBUTING.md
+[2]: https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE
+[3]: https://www.linkedin.com/in/JonathanTSilva/
+[4]: https://github.com/JonathanTSilva/HL-Python
 
 <!-- IMAGENS -->
+[A]: ../../Images/python-roadmap.png
