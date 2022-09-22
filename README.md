@@ -88,4 +88,4 @@ Distribuída por **MIT License**. Veja [LICENSE][2] para mais informações.
 [4]: https://github.com/JonathanTSilva/HL-Python
 
 <!-- IMAGENS -->
-[A]: ../../Images/python-roadmap.png
+[A]: /Images/python-roadmap.png
