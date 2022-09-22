@@ -1,36 +1,34 @@
-<!-- NOTA: AO INICIAR O PROJETO, SUBSTITUTIR TODOS <REPO> PELO NOME DO SEU REPOSITÓRIO ATUAL -->
-
 <!-- LOGO DO PROJETO -->
 <h1 align="center">
   <br>
-  <a href="https://github.com/JonathanTSilva/<REPO>"><img src="https://img.freepik.com/fotos-gratis/bandeira-do-brasil-fundo_135932-1335.jpg" alt="Logo" width="200"></a>
+  <a href="https://github.com/JonathanTSilva/HL-Python"><img src="https://cdn.rebrickable.com/media/thumbs/mocs/moc-91667.jpg/1000x800.jpg" alt="Logo" width="200"></a>
   <br>
-  Título
+  HomeLab - Python
   <br>
 </h1>
 
 <h4 align="center">
   
-[EMOJI] Descrição.
+🐍 Estudo de Python voltado para Machine Learning e Data Science, mas com uma pitada de tudo
   
 </h4>
 
 <!-- SHIELDS DO PROJETO -->
 <p align="center">
-  <a href="https://github.com/JonathanTSilva/<REPO>/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/JonathanTSilva/<REPO>.svg?style=flat" alt="Contributors">
+  <a href="https://github.com/JonathanTSilva/HL-Python/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/JonathanTSilva/HL-Python.svg?style=flat" alt="Contributors">
   </a>
-  <a href="https://github.com/JonathanTSilva/<REPO>/network/members">
-    <img src="https://img.shields.io/github/forks/JonathanTSilva/<REPO>.svg?style=flat" alt="Members">
+  <a href="https://github.com/JonathanTSilva/HL-Python/network/members">
+    <img src="https://img.shields.io/github/forks/JonathanTSilva/HL-Python.svg?style=flat" alt="Members">
   </a>
-  <a href="https://github.com/JonathanTSilva/<REPO>/stargazers">
-    <img src="https://img.shields.io/github/stars/JonathanTSilva/<REPO>.svg?style=flat" alt="Stargazers">
+  <a href="https://github.com/JonathanTSilva/HL-Python/stargazers">
+    <img src="https://img.shields.io/github/stars/JonathanTSilva/HL-Python.svg?style=flat" alt="Stargazers">
   </a>
-  <a href="https://github.com/JonathanTSilva/<REPO>/issues">
-    <img src="https://img.shields.io/github/issues/JonathanTSilva/<REPO>.svg?style=flat" alt="Issues">
+  <a href="https://github.com/JonathanTSilva/HL-Python/issues">
+    <img src="https://img.shields.io/github/issues/JonathanTSilva/HL-Python.svg?style=flat" alt="Issues">
   </a>
-  <a href="https://github.com/JonathanTSilva/<REPO>/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/JonathanTSilva/<REPO>.svg?style=flat" alt="License">
+  <a href="https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/JonathanTSilva/HL-Python.svg?style=flat" alt="License">
   </a>
 </p>
 
@@ -51,12 +49,7 @@
 <table>
   <tr>
     <td>
-    Resumo. [EMOJI]
-      <details open>
-      <summary>Informações adicionais</summary>
-      <br>
-        Texto da informações adicionais
-      </details>
+      Este projeto pertence à uma série de repositórios denominada HomeLab. Essa sequência foi criada a fim de agrupar todos os estudos realizados em determinada area, neste caso, toda a aprendizagem envolvendo a linguagem de programação orientada a objetos: Python. Documenta toda a experiência, contendo insights, dicas, resoluções de problemas e muitas outras coisas interessantes que fazem valer a pena o consumo e contribuição ao projeto HomeLab - Python! Aproveite e sinta-se a vontade para comentar, tirar suas dúvidas, criticar e, principalmente, contribuir. 🐍
     </td>
   </tr>
 </table>
@@ -71,7 +64,7 @@
 Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][A] para contribuir corretamente. :tada:
 
 <!-- LICENÇA -->
-<a href="https://github.com/JonathanTSilva/<REPO>/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
+<a href="https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
 ## 📝 Licença
 
@@ -81,13 +74,13 @@ Distribuída por **MIT License**. Veja [LICENSE][B] para mais informações.
 
 :globe_with_meridians: [Jonathan T. da Silva][C] <br>
 :email: jonathantobias2009@hotmail.com <br>
-:package: [JonathanTSilva/<REPO>][D]
+:package: [JonathanTSilva/HL-Python][D]
 
 <!-- MARKDOWN LINKS>
 <!-- SITES -->
-[A]: https://github.com/JonathanTSilva/<REPO>/blob/main/Docs/CONTRIBUTING.md
-[B]: https://github.com/JonathanTSilva/<REPO>/blob/main/LICENSE
+[A]: https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/CONTRIBUTING.md
+[B]: https://github.com/JonathanTSilva/HL-Python/blob/main/LICENSE
 [C]: https://www.linkedin.com/in/JonathanTSilva/
-[D]: https://github.com/JonathanTSilva/<REPO>
+[D]: https://github.com/JonathanTSilva/HL-Python
 
 <!-- IMAGENS -->
