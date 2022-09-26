@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/JonathanTSilva/HL-Linux">
-    <img src="https://img.shields.io/static/v1?label=Home%20Lab&message=Python&color=yellow&logo=python&logoColor=white&labelColor=blue&style=flat" alt="HL-Linux">
+    <img src="https://img.shields.io/static/v1?label=Home%20Lab&message=Python&logo=python&color=yellow&logoColor=white&labelColor=blue&style=flat" alt="HL-Linux">
   </a>
 </p>
 
