@@ -1,5 +1,5 @@
 <!-- LOGO DIREITO -->
-<a href="#"><img width="200px" src="https://img.freepik.com/fotos-gratis/bandeira-do-brasil-fundo_135932-1335.jpg" align="right" /></a>
+<a href="#"><img width="300px" src="https://modthemachine.typepad.com/.a/6a00e553fcbfc688340240a4e5a105200b-500wi" align="right" /></a>
 
 # Instalação e configuração
 
