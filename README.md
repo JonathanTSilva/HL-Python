@@ -59,10 +59,12 @@
 
 ![python_roadmap][A]
 
+<!--
 ## 🔎 Índice
 
 - [ex1](https://github.com/JonathanTSilva)
   - [ex1](https://github.com/JonathanTSilva)
+-->
 
 ## 🤝 Contribuindo
 
