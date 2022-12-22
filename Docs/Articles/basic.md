@@ -19,12 +19,14 @@
 <!-- VOLTAR AO INÍCIO -->
 <a href="#"><img width="40px" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/back-to-top.png" align="right" /></a>
 
-## 
+## Abrir um http dos arquivos
 
-<!-- VOLTAR AO INÍCIO -->
-<a href="#"><img width="40px" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/back-to-top.png" align="right" /></a>
+```python
+python3 -m http.server 83
+```
 
-## 
+Se tiver em máquina virtual, lembrar de utilizar A NAT network e tunelar para o host.
+
 
 <!-- MARKDOWN LINKS -->
 <!-- SITES -->
