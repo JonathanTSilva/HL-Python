@@ -21,12 +21,16 @@
 
 ## Abrir um http dos arquivos
 
-```python
+```shell
 python3 -m http.server 83
 ```
 
 Se tiver em máquina virtual, lembrar de utilizar A NAT network e tunelar para o host.
 
+```shell
+pip3 install pyftpdlib
+python3 -m pyftpdlib -p 21 w
+```
 
 <!-- MARKDOWN LINKS -->
 <!-- SITES -->
