@@ -21,11 +21,6 @@
 
 ## 
 
-<!-- VOLTAR AO INÍCIO -->
-<a href="#"><img width="40px" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/back-to-top.png" align="right" /></a>
-
-## 
-
 <!-- MARKDOWN LINKS -->
 <!-- SITES -->
 [1]: asfsdaf
