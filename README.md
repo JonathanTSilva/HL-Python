@@ -58,6 +58,9 @@
 ## 🛣️ Roadmap
 
 ![python_roadmap][A]
+<p align="center">
+  <a href="#jonathantsilva"><img src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/drop-shadow.png" alt="Shadow"/></a>  
+</p>
 
 <!--
 ## 🔎 Índice
