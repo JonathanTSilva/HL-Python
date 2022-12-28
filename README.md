@@ -9,7 +9,7 @@
 
 <h4 align="center">
   
-🐍 Estudo de Python voltado para Machine Learning e Data Science, mas com uma pitada de tudo
+🐍 Estudo de Python voltado para Machine Learning e Data Science.
   
 </h4>
 
