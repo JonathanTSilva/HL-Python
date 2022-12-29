@@ -50,15 +50,63 @@ trim_trailing_whitespace = false
 indent_style = tab
 ```
 
-### Para códigos:
+### For Python code
 
-1. Escreva seus códigos em UTF-8;
-2. Caso não tenha acesso ao **editorconfig**, sempre utilize 4 espaços de endentação (não utilize tabs);
-3. Arquitetura modular do usuário para agrupar funções, classes, etc;
-4. Tente limitar o comprimento da linha a 80 caracteres;
-5. Os nomes das classes devem ser sempre em maiúsculas (utilizar **PascalCase**);
-6. Os nomes das funções, variáveis, parâmetros, pacotes, atributos e métodos devem sempre estar em minúsculas (utilizar **camelCase**);
-7. Olhe para o estilo existente e siga o padrão.
+You must follow PEP-8 to develop our Python code. In short:
+
+#### Indentation, line-length and code wrapping
+
+1. Always use 4 spaces for indentation (don't use tabs);
+2. Write in ASCII in Python2 and UTF-8 in Python3;
+3. Max line-length: 80 characters (especially in comments);
+4. Always indent wrapped code for readability.
+
+#### Imports
+
+1. Don't use wildcards
+2. Import standard libs first, 3rd-party libs next, and local stuff last
+3. Try to import in an alphabetical order;
+4. Try to use absolute imports over relative ones;
+5. When using relative imports, be explicit (with `.`);
+6. Don't import multiple packages per line.
+
+#### Whitespace and newlines
+
+1. 2 blank lines before top-level function and class definitions;
+2. 1 blank line before class method definitions;
+3. Use blank lines in functions sparingly;
+4. Avoid extraneous whitespace;
+5. Don't use whitespace to line up assignment operators (=,:);
+6. Spaces around = for assignment;
+7. No spaces around = for default parameter values;
+8. Spaces around mathematical operator, but group them sensibly;
+9. Multiple statements on the same line are discouraged.
+
+#### Comments
+
+1. Keep comments up to date - incorrect comments are worse than no comments
+2. Write in whole sentences;
+3. Try to write in plain and easy-to-follow English;
+4. Use inline comments sparingly and avoid obvious comments;
+5. Each line of block comments should start with `#`;
+6. Paragraphs in block comments should be separated by a line with a single `#`;
+7. All public functions, classes and methods should have docstrings;
+8. Docstrings should start and end with `"""`;
+9. Docstring one-liners can be all on the same line;
+10. In docstrings, list each argument on separate line;
+11. Docstring should have a blank line before the final `"""`.
+
+#### Naming conventions
+
+1. Class names in **CapWords**
+2. Method, function and variables names in `lowercase_with_andescores` (Snake case);
+3. Private methods and properties start with `__double_underscore`;
+4. "Protected" methods and properties start with `_single_anderscore`;
+5. If you need to use a reserved word, add a `_` to the end (e.g. `class_`);
+6. Use all-uppercase FIXED_TERM for constant variables;
+7. Always use `self` for the first argument to instance methods;
+8. Always use `cls` for the first argument to class methods;
+9. Never declare functions using lambda (`f = lambda x: 2*x`).
 
 ### Para documentação:
 
