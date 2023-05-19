@@ -62,12 +62,11 @@
   <a href="#jonathantsilva"><img src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/drop-shadow.png" alt="Shadow"/></a>  
 </p>
 
-<!--
 ## 🔎 Índice
 
-- [ex1](https://github.com/JonathanTSilva)
-  - [ex1](https://github.com/JonathanTSilva)
--->
+- [Noções básicas](https://github.com/JonathanTSilva](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/basic.md)
+- [Preparação de ambientes](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/instConfig.md)
+- [Organização de um projeto](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/orgPyProject.md)
 
 ## 🤝 Contribuindo
 
