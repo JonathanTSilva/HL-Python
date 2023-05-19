@@ -64,7 +64,7 @@
 
 ## 🔎 Índice
 
-- [Noções básicas](https://github.com/JonathanTSilva](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/basic.md)
+- [Noções básicas](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/basic.md)
 - [Preparação de ambientes](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/instConfig.md)
 - [Organização de um projeto](https://github.com/JonathanTSilva/HL-Python/blob/main/Docs/Articles/orgPyProject.md)
 
